@@ -1,0 +1,27 @@
+img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+body {
+    background-color: rgb(8, 8, 8);
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: rgb(172, 30, 30);
+}
+
+li {
+    list-style-type: circle;
+}
+    
+a {
+    color: rgb(199, 117, 18);
+    text-decoration: none;
+}
+
+a:hover {
+    color: cadetblue;
+}
